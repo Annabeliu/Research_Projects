@@ -1,3 +1,5 @@
+**Linkedin Page: www.linkedin.com/in/feifan-liu**
+
 **Factors that influence students’ academic performance beyond curriculums and teachers**         
 1/2023 – 4/2023, University of Toronto         
 •	Employed **Python** for analyzing real-world data to assess the influence of school environment, living standards, and population density on students' academic performance.
