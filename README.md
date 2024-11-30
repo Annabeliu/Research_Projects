@@ -14,3 +14,8 @@
 9/2023 – 12/2023, University of Toronto         
 •	Employed **STATA** for data analysis, examining the influence of minimum wage on employment rates through a Difference-in-Differences (D-in-D) strategy.
 •	Achieved an A+ grade, demonstrating proficiency in independent data analysis, reporting, and practical application of learned concepts from the class.
+
+**Relative Belief**
+5/2025-8/2024, University of Toronto
+•	Utilized **Python** demonstrating the feasibility of automating experimental bias evaluations within probabilistic programming frameworks(Bayesian).
+•	Achieved an A+ grade and was highly rated by my department.
