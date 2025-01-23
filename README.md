@@ -10,7 +10,7 @@
 •	Utilized **R** for data analysis, investigating the impact of variables like physical activity, gender, age, BMI, testosterone, and smoking on HDL levels in the American adult population over 20.
 •	Attained an A+ grade through collaborative efforts with team members, showcasing expertise in extensive data analysis, teamwork, and effective communication.
 
-**Beyond Curriculums and Teachers: Examining Objective Factors Influencing Academic Performance**
+**The effect of minimum wage on employment rate**
 9/2023 – 12/2023, University of Toronto         
 •	Employed **STATA** for data analysis, examining the influence of minimum wage on employment rates through a Difference-in-Differences (D-in-D) strategy.
 •	Achieved an A+ grade, demonstrating proficiency in independent data analysis, reporting, and practical application of learned concepts from the class.
